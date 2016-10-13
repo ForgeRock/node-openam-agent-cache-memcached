@@ -1,7 +1,7 @@
 # openam-agent-cache-memcached
 Cache using Memcached for the OpenAM Policy Agent for NodeJS
 
-Installation: `npm install openam-agent-cache-redis`
+Installation: `npm install openam-agent-cache-memcached`
 
 # API Docs
 
